@@ -143,6 +143,7 @@ alias g='git'
 
 # dotfiles config to git
 alias dotfiles='/usr/bin/git --git-dir=/Users/albertevieites/.dotfiles/ --work-tree=/Users/albertevieites'
+alias dot='dotfiles'
 
 # Homebrew
 alias b='brew'
